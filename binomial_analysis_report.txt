@@ -1,0 +1,19 @@
+=== Binomial Monte Carlo Simulation Analysis Report ===
+
+1. Basic Simulation Results:
+   - Closure probability (12 months): 100.0%
+   - Average survival period: 1.00 months
+   - Optimal exit month: 0 months
+   - Optimal exit cumulative sales: 1,857,000 KRW
+
+2. Realistic Parameter Simulation Results:
+   - Closure probability (12 months): 41.6%
+   - Average survival period: 7.51 months
+   - Optimal exit month: 12 months
+   - Optimal exit cumulative sales: 33,251,995 KRW
+
+3. Simulation Comparison:
+   - Basic simulation 12-month survival probability: 0.0%
+   - Realistic parameters 12-month survival probability: 58.4%
+   - Survival probability difference: 58.4%p
+

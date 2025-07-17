@@ -1,0 +1,60 @@
+{
+  "basic_simulation": {
+    "closure_probability_12_months": 100.0,
+    "average_survival_period": 1.0,
+    "optimal_exit_month": "0",
+    "optimal_exit_value": 1857000.0,
+    "survival_probabilities": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "realistic_simulation": {
+    "closure_probability_12_months": 41.565999999999995,
+    "average_survival_period": 7.50954,
+    "optimal_exit_month": "12",
+    "optimal_exit_value": 33251995.221960586,
+    "survival_probabilities": [
+      1.0,
+      0.60228,
+      0.60228,
+      0.60228,
+      0.60228,
+      0.58685,
+      0.58685,
+      0.58685,
+      0.58685,
+      0.58434,
+      0.58434,
+      0.58434,
+      0.58434
+    ]
+  },
+  "parameters": {
+    "basic": {
+      "initial_sales": "1857000",
+      "close_threshold": 3205280.0,
+      "up_factor": 1.07,
+      "down_factor": 0.93,
+      "up_prob": 0.53
+    },
+    "realistic": {
+      "close_threshold": 2403960.0,
+      "up_factor": 1.15,
+      "down_factor": 0.95,
+      "up_prob": 0.6,
+      "initial_sales": 2511800.0
+    }
+  }
+}
